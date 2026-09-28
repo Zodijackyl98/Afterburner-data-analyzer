@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+*.ipynb_checkpoints/
+main_legacy.py
+test_afterburner_parser.py
